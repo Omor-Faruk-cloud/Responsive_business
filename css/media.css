@@ -1,0 +1,242 @@
+            @media(max-width:1199px) {
+                .banner p {
+                    font-size: 25px;
+                }
+            }
+            
+            @media(max-width:991px) {
+                .navbar-brand {
+                    width: 70%;
+                }
+                .navbar-brand img {
+                    width: 70%;
+                }
+                .btn-warning {
+                    font-size: 28px;
+                    padding: .375rem .75rem;
+                }
+                .banner p {
+                    font-size: 25px;
+                }
+                .project i {
+                    font-size: 40px;
+                }
+                .project-1 {
+                    padding: 14%;
+                }
+                .project h3 {
+                    font-size: 20px;
+                }
+                .project h4 {
+                    font-size: 12px;
+                }
+                .navbar-nav {
+                    list-style: none;
+                }
+                .contact h1 {
+                    font-size: 28px;
+                }
+            }
+            
+            @media(max-width:767px) {
+                .white .left h4 {
+                    text-align: center !important;
+                }
+                .white .left p {
+                    padding-right: 0 !important;
+                    text-align: center;
+                }
+                .white .right p {
+                    padding-left: 0%;
+                }
+                .about_us img {
+                    padding-right: 0%;
+                }
+                .about_us h3 {
+                    padding-right: 0%;
+                }
+                .about_us .features p {
+                    padding-right: 0%;
+                }
+                .dsplay-first {
+                    display: none;
+                }
+                .dsplay-second {
+                    display: none;
+                }
+                .hidden-01 {
+                    display: inherit;
+                }
+                .hidden-01_01 {
+                    display: inherit;
+                }
+                .dsplay-first-hide-1 {
+                    display: inherit;
+                }
+                .dsplay-first-hide-2 {
+                    display: inherit;
+                }
+                .hidden-02 {
+                    display: none;
+                }
+                .hidden-02_02 {
+                    display: none;
+                }
+                .project-1 {
+                    padding: 24% 0%;
+                }
+                .project i {
+                    font-size: 40px;
+                }
+                .project h3 {
+                    font-size: 20px;
+                }
+                .project h4 {
+                    font-size: 12px;
+                }
+            }
+            
+            @media(max-width:500px) {}
+            
+            @media(max-width:575px) {
+                .step-align {
+                    left: -28px;
+                }
+                .project-1 {
+                    padding: 20% 0%;
+                }
+                .navbar-nav {
+                    margin-left: 5% !important;
+                }
+            }
+            
+            @media(max-width:425px) {
+                .hg {
+                    min-height: 45vh !important;
+                }
+                .banner {
+                    min-height: 55vh !important;
+                }
+                .banner h1 {
+                    font-size: 35px;
+                }
+                .banner p {
+                    font-size: 18px;
+                }
+                .btn-warning {
+                    font-size: 16px;
+                    padding: .375rem .75rem;
+                }
+                .dsplay-first {
+                    display: none;
+                }
+                .dsplay-second {
+                    display: none;
+                }
+                .hidden-01 {
+                    display: inherit;
+                }
+                .hidden-01_01 {
+                    display: inherit;
+                }
+                .dsplay-first-hide-1 {
+                    display: inherit;
+                }
+                .dsplay-first-hide-2 {
+                    display: inherit;
+                }
+                .hidden-02 {
+                    display: none;
+                }
+                .hidden-02_02 {
+                    display: none;
+                }
+                .project-1 {
+                    padding: 14% 0%;
+                }
+                .project i {
+                    font-size: 40px;
+                }
+                .project h3 {
+                    font-size: 20px;
+                }
+                .project h4 {
+                    font-size: 12px;
+                }
+                .contact h1 {
+                    font-size: 22px;
+                }
+                .get_in_touch p {
+                    font-size: 11px;
+                }
+                .works p {
+                    font-size: 20px;
+                }
+                .services {
+                    font-size: 12px;
+                }
+            }
+            
+            @media(max-width:343px) {
+                .navbar-brand {
+                    width: 70%;
+                }
+                .navbar-brand img {
+                    width: 78%;
+                }
+                .step {
+                    width: 80px !important;
+                }
+                .step h3 {
+                    font-size: 25px !important;
+                }
+                .step h3 {
+                    font-size: 14px !important;
+                }
+                .project-1 {
+                    padding: 12% 0%;
+                }
+                .project i {
+                    font-size: 35px;
+                }
+                .project h3 {
+                    font-size: 18px;
+                }
+                .project h4 {
+                    font-size: 10px;
+                }
+            }
+            
+            @media(max-width:320px) {
+                .top-header ul li {
+                    font-size: 14px;
+                }
+                .fb {
+                    font-size: 20px;
+                }
+                .project-1 {
+                    padding: 18% 0%;
+                }
+                .project i {
+                    font-size: 28px;
+                    margin-bottom: 0;
+                    padding-bottom: 0;
+                }
+                .project h3 {
+                    font-size: 16px;
+                }
+                .project h4 {
+                    font-size: 10px;
+                    padding-bottom: 0;
+                    margin-bottom: 0;
+                }
+                .card-body {
+                    padding: 0px !important;
+                }
+                .works p {
+                    font-size: 15px;
+                }
+                .services {
+                    font-size: 12px;
+                }
+            }
